@@ -75,8 +75,7 @@
 	url = https://github.com/ortclib/ortclib-apple.git
 [submodule "webrtc/windows"]
 	path = webrtc/windows
-	url = https://github.com/anderm/webrtc-windows.git
-	branch = Andrei/enhancements
+	url = https://github.com/phongcao/webrtc-windows.git
 [submodule "common/windows/samples/PeerCC"]
 	path = common/windows/samples/PeerCC
 	url = https://github.com/webrtc-uwp/PeerCC.git
@@ -118,8 +117,7 @@
 	url = https://github.com/webrtc-uwp/libcxxabi.git
 [submodule "webrtc/xplatform/webrtc"]
 	path = webrtc/xplatform/webrtc
-	url = https://github.com/anderm/webrtc.git
-	branch = Andrei/enhancements
+	url = https://github.com/phongcao/webrtc.git
 [submodule "webrtc/xplatform/chromium/base"]
 	path = webrtc/xplatform/chromium/base
 	url = https://github.com/webrtc-uwp/chromium-base.git
